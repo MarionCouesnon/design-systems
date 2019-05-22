@@ -17,6 +17,7 @@ _Put an `x` in the boxes that apply. You can also fill these out after creating 
 
 - [ ] I have read the [Contributing guidelines](./contributing.md)
 - [ ] I have added necessary documentation to the [readme file](./readme.md) (if appropriate)
+- [ ] Other (needs to be defined in the further comments section below)
 
 ## Further comments
 

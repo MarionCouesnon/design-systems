@@ -30,7 +30,7 @@ include:
 #### Examples of unacceptable behavior by participants include:
 
 - Insulting/derogatory comments
-- Personal or political attacks
+- Personal, cultural or political attacks
 - Public or private harassment
 - Publishing others' private information, such as a physical or electronic address, without explicit permission
 
